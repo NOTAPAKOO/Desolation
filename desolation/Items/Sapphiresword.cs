@@ -3,7 +3,7 @@ using Terraria.ModLoader;
 
 namespace desolation.Items
 {
-    public class Sapphiresword : ModItem
+    public class SapphireSword : ModItem
     {
         public override void SetStaticDefaults()
         {

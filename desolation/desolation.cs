@@ -1,10 +1,10 @@
 using Terraria.ModLoader;
 
-namespace desolation
+namespace Desolation
 {
-	class desolation : Mod
+	class Desolation : Mod
 	{
-		public desolation()
+		public Desolation()
 		{
 			Properties = new ModProperties()
 			{

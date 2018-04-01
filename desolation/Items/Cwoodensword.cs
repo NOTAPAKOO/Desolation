@@ -3,7 +3,7 @@ using Terraria.ModLoader;
 
 namespace desolation.Items
 {
-    public class Cwoodensword : ModItem
+    public class CWoodenSword : ModItem
     {
         public override void SetStaticDefaults()
         {
