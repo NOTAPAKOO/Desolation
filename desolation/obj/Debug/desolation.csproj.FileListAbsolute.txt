@@ -1,0 +1,11 @@
+C:\Users\Xander\Documents\My Games\Terraria\ModLoader\Mod Sources\desolation\bin\Debug\desolation.dll
+C:\Users\Xander\Documents\My Games\Terraria\ModLoader\Mod Sources\desolation\bin\Debug\desolation.pdb
+C:\Users\Xander\Documents\My Games\Terraria\ModLoader\Mod Sources\desolation\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Xander\Documents\My Games\Terraria\ModLoader\Mod Sources\desolation\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Xander\Documents\My Games\Terraria\ModLoader\Mod Sources\desolation\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Xander\Documents\My Games\Terraria\ModLoader\Mod Sources\desolation\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\Xander\Documents\My Games\Terraria\ModLoader\Mod Sources\desolation\bin\Debug\Terraria.exe
+C:\Users\Xander\Documents\My Games\Terraria\ModLoader\Mod Sources\desolation\obj\Debug\desolation.csprojResolveAssemblyReference.cache
+C:\Users\Xander\Documents\My Games\Terraria\ModLoader\Mod Sources\desolation\obj\Debug\desolation.csproj.CoreCompileInputs.cache
+C:\Users\Xander\Documents\My Games\Terraria\ModLoader\Mod Sources\desolation\obj\Debug\desolation.dll
+C:\Users\Xander\Documents\My Games\Terraria\ModLoader\Mod Sources\desolation\obj\Debug\desolation.pdb
